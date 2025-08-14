@@ -11,7 +11,7 @@
 🌱 This summer, I'm working on Python projects and learning how to use GitHub to build a strong portfolio.
 
 📬 You can reach me via:
-- LinkedIn: [linkedin.com/in/Yağmur Ece Karakuş](https://linkedin.com/in/Yağmur Ece Karakuş)
+- LinkedIn: [linkedin.com/in/Yağmur Ece Karakuş](https://linkedin.com/in/YağmurEceKarakuş)
 - Email: yagmurecekarakus@gmail.com
 
   
